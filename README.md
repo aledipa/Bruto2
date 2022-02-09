@@ -59,13 +59,19 @@ $ python3 Bruto2.py
 ## Authors
 
 Main developer: [@AleDipa](https://github.com/aledipa)
+
 Helped with logic and structure: [@Git-Malik](https://github.com/git-malik)
 
 ## Version History
 
 * 0.1
     * Initial Release
-    * See [commit change]() or See [release history]()
+    * See [commit change](https://github.com/aledipa/bruto2/commits/main) or See [release history](https://github.com/aledipa/bruto2/releases)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 ## Notes
 This project is developed based on a very old script called "bruto.py" that worked
