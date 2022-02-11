@@ -1,6 +1,7 @@
 # Bruto 2
 
 A Telnet penetration tool
+(read notes below)
 
 ## Description
 
