@@ -31,7 +31,7 @@ How to install the program
 Step-by-step usage guide
 ```
 # First thing first, you'll need to get the IPs
-$ zmap -p 23 -o list.txt
+$ zmap -p 23 my.local.ip.range/24 -o list.txt
 
 # Then you can run the script
 $ python3 Bruto2.py [ips list name/path] [threads number] [output file name]
