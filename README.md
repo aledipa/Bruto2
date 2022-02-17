@@ -30,7 +30,7 @@ How to install the program
  
 Step-by-step usage guide
 ```
-# First thing first, you'll need to get the IPs
+# First thing first, you'll need to get the local IPs
 $ zmap -p 23 my.local.ip.range/24 -o list.txt
 
 # Then you can run the script
