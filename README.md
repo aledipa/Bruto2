@@ -25,6 +25,20 @@ How to install the program
  $ git clone https://github.com/aledipa/bruto2.git
  $ cd bruto2/
  ```
+How to install zmap
+```
+# Install on MacOS
+% brew install zmap
+
+# Install on Debian Linux
+$ apt-get install zmap
+
+# Install on RedHat Linux
+$ yum install zmap
+
+# Install on Arch Linux
+$ pacman -S zmap
+```
 
 ### Executing program
  
